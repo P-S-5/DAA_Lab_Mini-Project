@@ -1,4 +1,8 @@
 # DAA_Lab_Mini-Project
+**Group Members:**
+- Ayam Bhura (219311003)
+- Piyush Sahoo (219311060)
+- Anupam Kumar (219311254)
 
 **Develop a console-based application to implement Snakes and Ladders Game**
 
